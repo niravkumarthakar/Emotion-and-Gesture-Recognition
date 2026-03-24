@@ -1,4 +1,4 @@
-# 🤖 Gesture & Emotion Detection using Deep Learning
+# Emotion & Gesture Recognition
 
 This project detects human **gestures** and **facial emotions** in real time using pre-trained deep learning models built with TensorFlow/Keras and OpenCV.
 
@@ -12,13 +12,13 @@ This project detects human **gestures** and **facial emotions** in real time usi
 * 🙂 **Emotion Detection**:
 
   * Detects facial emotions such as: `happy`, `sad`, `angry`, `surprised`, `neutral`, `fear`, `disgust`
-* 📆 Trained models saved as `.h5` files
-* 💽 Real-time video capture using OpenCV
-* 🎯 Simple interface for live prediction
+*  Trained models saved as `.h5` files
+*  Real-time video capture using OpenCV
+*  Simple interface for live prediction
 
 ---
 
-## 🧠 Model Details
+## Model Details
 
 | Model Type    | File Name          | Framework        | Input Format              |
 | ------------- | ------------------ | ---------------- | ------------------------- |
@@ -29,7 +29,7 @@ This project detects human **gestures** and **facial emotions** in real time usi
 
 ## 🚀 Getting Started
 
-### ✅ Requirements
+### Requirements
 
 Install required libraries:
 
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ---
 
-### 📂 Project Structure
+### Project Structure
 
 ```
 Gesture_Emotion_Project/
@@ -55,15 +55,15 @@ Gesture_Emotion_Project/
 
 ---
 
-## 💗 How to Run
+## How to Run
 
-### 🧪 Run in Jupyter Notebook:
+### Run in Jupyter Notebook:
 
 ```bash
 jupyter notebook Gesture_Emotion_Inference.ipynb
 ```
 
-### 💻 Run in Python (if script version is available):
+### Run in Python (if script version is available):
 
 ```bash
 python app.py
@@ -71,7 +71,7 @@ python app.py
 
 ---
 
-## 💡 Use Cases
+## Use Cases
 
 * Human-computer interaction
 * Virtual assistants
@@ -80,14 +80,14 @@ python app.py
 
 ---
 
-## 📚 Dataset Sources
+## Dataset Sources
 
 * 👋 **Gestures**: Custom hand gesture dataset 
 * 😊 **Emotions**: FER-2013 Dataset or custom labeled facial expressions
 
 ---
 
-## 🙌 Acknowledgements
+## Special Tools
 
 * TensorFlow & Keras
 * OpenCV
@@ -95,9 +95,9 @@ python app.py
 
 ---
 
-## 📬 Contact
+## Author
 
-**Nirav Thakar**
+Niravkumar Thakar
 [LinkedIn](https://www.linkedin.com/in/niravkumar-thakar-095132371/) 
 
 ---
