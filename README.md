@@ -99,7 +99,3 @@ python app.py
 
 Niravkumar Thakar
 [LinkedIn](https://www.linkedin.com/in/niravkumar-thakar-095132371/) 
-
----
-
-⭐ *Star this repo if you found it helpful!*
