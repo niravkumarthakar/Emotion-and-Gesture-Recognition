@@ -95,7 +95,10 @@ python app.py
 
 ---
 
-## Author
+## Collaborators
 
-Niravkumar Thakar
-[LinkedIn](https://www.linkedin.com/in/niravkumar-thakar-095132371/) 
+1. Niravkumar Thakar
+[LinkedIn](https://www.linkedin.com/in/niravkumar-thakar-095132371/)
+2. Krutarth Pota
+3. Vikram
+
